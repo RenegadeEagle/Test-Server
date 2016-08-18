@@ -1,0 +1,49 @@
+16-08-17 15:58:39 [INFO] Logger started.
+16-08-17 15:58:39 [INFO] [NoCheatPlus] Logging system initialized.
+16-08-17 15:58:39 [INFO] [NoCheatPlus] Detected Minecraft version: 1.8.3
+16-08-17 15:59:05 [INFO] [NoCheatPlus] McAccess set to: 1.8.3 / Spigot-CB-DEV
+16-08-17 15:59:05 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+16-08-17 15:59:05 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+16-08-17 15:59:05 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+16-08-17 15:59:05 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+16-08-17 15:59:05 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+16-08-17 15:59:05 [INFO] [NoCheatPlus] Packet level access: ProtocolLib is not available.
+16-08-17 15:59:05 [INFO] [NoCheatPlus] Version 3.12.1-SNAPSHOT-sMD5NET-b816 is enabled.
+16-08-17 15:59:09 [INFO] [NoCheatPlus] Post-enable running...
+16-08-17 15:59:09 [INFO] [NoCheatPlus] Post-enable finished.
+16-08-17 15:59:09 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-07ff818-0a645a2 (MC: 1.8.3)
+(detected: 1.8.3)
+#### NoCheatPlus ####
+Plugin: 3.12.1-SNAPSHOT-sMD5NET-b816
+MCAccess: 1.8.3 / Spigot-CB-DEV
+Features:
+  blocks: BlocksMC1_4(base) | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  defaults: pvpKnockBackVelocity
+16-08-17 16:00:41 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 83 (83/0) | event.player.move.handled.pos 37 (37/0) | event.player.move.handled.look 11 (11/0) | event.player.move.handled.pos_look 35 (35/0) |
+16-08-17 16:00:42 [INFO] Logger started.
+16-08-17 16:00:42 [INFO] [NoCheatPlus] Logging system initialized.
+16-08-17 16:00:42 [INFO] [NoCheatPlus] Detected Minecraft version: 1.8.3
+16-08-17 16:00:43 [INFO] [NoCheatPlus] McAccess set to: 1.8.3 / Spigot-CB-DEV
+16-08-17 16:00:43 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+16-08-17 16:00:43 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+16-08-17 16:00:43 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+16-08-17 16:00:43 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+16-08-17 16:00:43 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+16-08-17 16:00:43 [INFO] [NoCheatPlus] Packet level access: ProtocolLib is not available.
+16-08-17 16:00:43 [INFO] [NoCheatPlus] Version 3.12.1-SNAPSHOT-sMD5NET-b816 is enabled.
+16-08-17 16:00:46 [INFO] [NoCheatPlus] Post-enable running...
+16-08-17 16:00:46 [INFO] [NoCheatPlus] Post-enable finished.
+16-08-17 16:00:46 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-07ff818-0a645a2 (MC: 1.8.3)
+(detected: 1.8.3)
+#### NoCheatPlus ####
+Plugin: 3.12.1-SNAPSHOT-sMD5NET-b816
+MCAccess: 1.8.3 / Spigot-CB-DEV
+Features:
+  blocks: BlocksMC1_4(base) | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  checks: FastConsume | Gutenberg
+  defaults: pvpKnockBackVelocity
+16-08-17 16:00:54 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 59 (59/0) | event.player.move.handled.pos 12 (12/0) | event.player.move.handled.look 8 (8/0) | event.player.move.handled.pos_look 39 (39/0) |
